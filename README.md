@@ -158,5 +158,8 @@ rest:
 ## Vista al agregar el sensor al dashboard
 ---
 Luego agregamos las entidades generadas a una tarjeta en nuestro dashboard, para que se vea de la siguiente forma :
+<p align="center"><img src="https://github.com/bomberosalas/HomeAssistant-red-buses/blob/main/card.png"/></p> 
+
+La imagen de encabezado fue encontrada en la web y es la misma usada en esta descripción al inicio.
 
 
